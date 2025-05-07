@@ -6,5 +6,17 @@ I Learnt some function such as;
 - using the excel application [downlpad here](https://www.microsoft.com)
 
   #Challenges
+1. Structured Data
+Definition: Data that is organized in a fixed format, typically rows and columns (like in Excel table).
+
+ ### Example: Structured Excel Table
   ___
+ |Name|Gender|Age|Marital Status|
+  |----|----|----|----|----|
+	|Alice|female|25|Single|
+	|Bob|male|26|Married|
+	|Carol|female|21|Single
+	|David|male|23|Divorced
+	|Eve|female|24|SINGLE
+
 
